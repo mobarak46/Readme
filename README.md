@@ -1,18 +1,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ 」──
+    ──「 ᴍ ᴜ ʙ ɪ 」──
 </h2>
 
-<p align="center">
-  <img src="https://graph.org/file/913e8229da554b09c6de3-b5dd0d54496f0fe53f.jpg">
-</p>
+<div align="center">
 
-
-# 👋 Mubarak (Mobarak46)
-### *formerly known as Mubi*
+ [![Telegram](https://img.shields.io/badge/Telegram-Mubarak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mobarak46)
 
 **Aspiring Developer | Self-Learner |**
 
@@ -27,11 +22,11 @@
 
 ## 🎯 About Me
 
-Hi, I'm ** Mubarak **, a Graduate from **Chennai, Tamil Nadu 🇮🇳**, currently in **KONE**. My coding journey started in **2021** during lockdown — out of pure internal curiosity. I discovered Telegram bots and realized I could create them as a best without prior programming knowledge. That spark ignited everything.
+Hi, I'm **Mubarak**, a Graduate from **Chennai, Tamil Nadu 🇮🇳**, currently in **KONE**. My coding journey started in **2021** during lockdown — out of pure internal curiosity. I discovered Telegram bots and realized I could create them as a best without prior programming knowledge. That spark ignited everything.
 
 **My Journey:**
 - 🤖 Started with Telegram bots and GitHub forks
-- 🚀 DEPLOYED BOTS ON HEROKU , KOYEB , RENDER , SEVALLA (Filter Bot, Userbots, File Renamers, F2L , File Store)
+- 🚀 Deployed Bots on Heroku , Koyeb , Render , Sevalla (Filter Bot, Userbots, File Renamers, F2L , File Store)
 - 💻 Self-Taught **Python**, **HTML**, **CSS**, **JavaScript**
 - 🎓 Completed **ITI DIPLOMA** (learned C, C++, MySQL)
 - 🌐 Explored Multiple Databases: MongoDB, MySQL, SQLite, Redis, ElephantSQL
@@ -131,8 +126,8 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mobarak46)
 [![Email](https://img.shields.io/badge/Email-Mubixd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mubixd@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@Mobarak46-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KishoreDxD)
-[![Instagram](https://img.shields.io/badge/Instagram-@G-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/K4issz.Luv)
+[![Telegram](https://img.shields.io/badge/Telegram-@Mobarak46-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mobarak46)
+[![Instagram](https://img.shields.io/badge/Instagram-@G-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GNMSEditz)
 
 </div>
 
@@ -140,7 +135,7 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 <div align="center">
 
-**⭐️ Made with passion by [MUBIDev](https://github.com/Mobarak46) (formerly Aasfcyberking)**
+**⭐️ Made with passion by [MUBIDev](https://github.com/Mobarak46) (formerly Mubi)**
 
 *Every line of code tells a story — curiosity, mistakes, growth, and self-learning.* 💫
 
