@@ -14,7 +14,7 @@
 *Learning day by day* 🚀 | *Building with Python, JavaScript, and Web Technologies*
 
 [![GitHub followers](https://img.shields.io/github/followers/Thiruxd?style=social)](https://github.com/Mobarak46)
-[![GitHub User's stars](https://img.shields.io/github/stars/Thiruxd?style=social)](https://github.com/Mobarak46)
+[![GitHub User's stars](https://img.shields.io/github/stars/Clinton-Abraham?style=social)](https://github.com/Mobarak46)
 
 </div>
 
@@ -128,9 +128,13 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobarak46&layout=compact&theme=radical)
 
-![GitHub Facts](https://github-readme-facts.vercel.app/api?username=Mobarak46&theme=radical&hide=stars,followers,forks,repos)
 
-![GitHub Account Age](https://badgen.net/github/age/Mobarak46)
+<p align="center">
+<a href="https://github.com/Clinton-Abraham">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Clinton-Abraham#version3"/>
+</a>
+</p>
+
 
 
 </div>
