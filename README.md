@@ -1,4 +1,15 @@
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+━━━━━━━━━━━━━━━━━━━━
+
+<h2 align="center">
+    ──「 ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ 」──
+</h2>
+
+<p align="center">
+  <img src="https://graph.org/file/913e8229da554b09c6de3-b5dd0d54496f0fe53f.jpg">
+</p>
+
 
 # 👋 Mubarak (Mobarak46)
 ### *formerly known as Mubi*
