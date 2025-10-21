@@ -21,10 +21,10 @@ Hi, I'm ** Mubarak **, a Graduate from **Chennai, Tamil Nadu 🇮🇳**, current
 **My Journey:**
 - 🤖 Started with Telegram bots and GitHub forks
 - 🚀 DEPLOYED BOTS ON HEROKU , KOYEB , RENDER , SEVALLA (Filter Bot, Userbots, File Renamers, F2L , File Store)
-- 💻 SELF-TAUGHT **Python**, **HTML**, **CSS**, **JavaScript**
-- 🎓 COMPLETED **ITI DIPLOMA** (learned C, C++, MySQL)
-- 🌐 EXPLORED MULTIPLE DATABASES: MongoDB, MySQL, SQLite, Redis, ElephantSQL
-- 👥 **JUST A ADMIN & FRIENDLY OF AgoraNet** — a network of 300+ developers on Telegram
+- 💻 Self-Taught **Python**, **HTML**, **CSS**, **JavaScript**
+- 🎓 Completed **ITI DIPLOMA** (learned C, C++, MySQL)
+- 🌐 Explored Multiple Databases: MongoDB, MySQL, SQLite, Redis, ElephantSQL
+- 👥 **Just a Admin & Friendly of AgoraNet** — a network of 300+ developers on Telegram
 
 Every project taught me something new. Every mistake became a lesson. I'm not chasing a fixed aim — I'm **learning, exploring, and growing every day**.
 
