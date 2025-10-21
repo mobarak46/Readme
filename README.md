@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 🎯 About Me
+## ──「 ᴀʙᴏᴜᴛ ᴍᴇ 」──
 
 </div>
 
@@ -42,13 +42,13 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 
 <div align="center">
 
-## 🛠️  Tech Stack
+##  ──「 ᴛᴇᴄʜ sᴛᴀᴄᴋ 」──
 
 </div>
 
 <div align="center">
 
-**Languages**
+**Lᴀɴɢᴜᴀɢᴇs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,12 +57,12 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frameworks & Libraries**
+**Fʀᴀᴍᴇᴡᴏʀᴋs & Lɪʙʀᴀʀɪᴇs**
 
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-000000?style=for-the-badge&logo=pyrogram&logoColor=white)
   ![Kurigram](https://img.shields.io/badge/Kurigram-41A9E3?style=for-the-badge&logoColor=white)
 
-**Databases & Caching**
+**Dᴀᴛᴀʙᴀsᴇs & Cᴀᴄʜɪɴɢ**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -70,7 +70,7 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Development Tools**
+**Dᴇᴠᴇʟᴏᴘᴍᴇɴᴛ Tᴏᴏʟs**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,7 +78,7 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Deployment Platforms**
+**Dᴇᴘʟᴏʏᴍᴇɴᴛ Pʟᴀᴛғᴏʀᴍs**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -89,7 +89,7 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 ![VPS](https://img.shields.io/badge/VPS-20B2AA?style=for-the-badge&logo=serverfault&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0F?style=for-the-badge&logo=railway&logoColor=white)
 
-**Technologies I Use**
+**Tᴇᴄʜɴᴏʟᴏɢɪᴇs I Usᴇ**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=microsoftwindows&logoColor=white)
@@ -102,7 +102,7 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 
 <div align="center">
 
-## 🤝 Open to Collaboration
+## 🤝 ──「 Oᴘᴇɴ ᴛᴏ Cᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ 」──
 
 </div>
 
@@ -118,7 +118,7 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 <div align="center">
 
-## 📊 GitHub Stats
+## ──「 Gɪᴛʜᴜʙ Sᴛᴀᴛs 」──
 
 </div>
 
@@ -143,7 +143,7 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 <div align="center">
     
-## 🌐 My Network
+## 🌐 ──「 Mʏ Nᴇᴛᴡᴏʀᴋ 」──
 
 </div>
 
@@ -159,7 +159,7 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 <div align="center">
 
-## 💭 My Philosophy
+## ──「 Mʏ Pʜɪʟᴏsᴏᴘʜʏ 」──
 
 </div>
 
@@ -175,7 +175,7 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 <div align="center">
 
-## 📫 Let's Connect
+## 📫 ──「 Lᴇᴛ's Cᴏɴɴᴇᴄᴛ 」──
 
 </div>
 
