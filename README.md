@@ -44,6 +44,8 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 
 ## 🛠️  Tech Stack
 
+</div>
+
 <div align="center">
 
 **Languages**
@@ -98,7 +100,6 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 ---
 
 
-
 <div align="center">
 
 ## 🤝 Open to Collaboration
@@ -115,7 +116,11 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -127,7 +132,11 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 ---
 
+<div align="center">
+    
 ## 🌐 My Network
+
+</div>
 
 <div align="center">
 
@@ -139,7 +148,11 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 ---
 
+<div align="center">
+
 ## 💭 My Philosophy
+
+</div>
 
 > *I'm not chasing a fixed aim — I'm learning, exploring, and growing every day.*
 > 
@@ -151,7 +164,11 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 ---
 
+<div align="center">
+
 ## 📫 Let's Connect
+
+</div>
 
 <div align="center">
 
