@@ -7,7 +7,7 @@
 
 *Learning day by day* 🚀 | *Building with Python, JavaScript, and Web Technologies*
 
-[![GitHub followers](https://img.shields.io/github/followers/Mobarak46?style=social)](https://github.com/Mobarak46)
+[![GitHub followers](https://img.shields.io/github/followers/Thiruxd?style=social)](https://github.com/Mobarak46)
 [![GitHub User's stars](https://img.shields.io/github/stars/Mobarak46?style=social)](https://github.com/Mobarak46)
 
 </div>
