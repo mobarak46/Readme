@@ -7,7 +7,7 @@
 
 <div align="center">
 
- [![Telegram](https://img.shields.io/badge/Telegram-Mubarak-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mobarak46)
+ <a href="https://t.me/Mobarak46"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 **Aspiring Developer | Self-Learner |**
 
@@ -20,7 +20,11 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 About Me
+
+</div>
 
 Hi, I'm **Mubarak**, a Graduate from **Chennai, Tamil Nadu 🇮🇳**, currently in **KONE**. My coding journey started in **2021** during lockdown — out of pure internal curiosity. I discovered Telegram bots and realized I could create them as a best without prior programming knowledge. That spark ignited everything.
 
@@ -36,6 +40,8 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 
 ---
 
+<div align="center">
+
 ## 🛠️  Tech Stack
 
 <div align="center">
@@ -49,6 +55,11 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+**Frameworks & Libraries**
+
+![Pyrogram](https://img.shields.io/badge/Pyrogram-000000?style=for-the-badge&logo=pyrogram&logoColor=white)
+  ![Kurigram](https://img.shields.io/badge/Kurigram-41A9E3?style=for-the-badge&logoColor=white)
+
 **Databases & Caching**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -57,22 +68,42 @@ Every project taught me something new. Every mistake became a lesson. I'm not ch
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Platforms**
+**Development Tools**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Deployment Platforms**
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-1F2B57?style=for-the-badge&logo=koyeb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Sevalla](https://img.shields.io/badge/Sevalla-E62D7E?style=for-the-badge&logo=cloudflare&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-20B2AA?style=for-the-badge&logo=serverfault&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0F?style=for-the-badge&logo=railway&logoColor=white)
+
+**Technologies I Use**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=microsoftwindows&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
 ---
 
+
+
+<div align="center">
+
 ## 🤝 Open to Collaboration
+
+</div>
 
 I'm always excited to work on:
 - 🤖 **Telegram bots** and automation projects
