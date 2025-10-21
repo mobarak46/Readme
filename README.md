@@ -128,6 +128,11 @@ Whether you need help with debugging, architecture design, or brainstorming — 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobarak46&layout=compact&theme=radical)
 
+![GitHub Facts](https://github-readme-facts.vercel.app/api?username=Mobarak46&theme=radical&hide=stars,followers,forks,repos)
+
+![GitHub Account Age](https://badgen.net/github/age/Mobarak46)
+
+
 </div>
 
 ---
